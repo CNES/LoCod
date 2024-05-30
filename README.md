@@ -1,4 +1,4 @@
-#LoCod: an open-source hardware/software co-design framework
+# LoCod: an open-source hardware/software co-design framework
 
 LoCod is a fully open-source hardware/software co-design tool, developed by CNES and Viveris in the frame of a CNES [R&T](https://rd-cnes.wiin.io/fr/applications/aai-rt/) study.
 
